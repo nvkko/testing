@@ -1,12 +1,12 @@
 const data = {};
 
-data.firstTxt = 'The Matrix has you...';
+data.firstTxt = 'You took the First Step...';
 
-data.secondTxt = 'Follow the White Path...';
+data.secondTxt = 'But the journey has just begun...';
 
-data.thirdTxt = '> Learn the Truth <';
+data.thirdTxt = '> Experience your Future <';
 
-data.link = 'https://www.fiverr.com'
+data.link = 'https://www.nvkko.com'
 
 data.fontSize = 30;
 
